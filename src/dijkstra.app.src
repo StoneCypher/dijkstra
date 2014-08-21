@@ -1,5 +1,5 @@
 %% -*- mode: erlang -*-
-{application, example_project,
+{application, dijkstra,
  [
   {description, "Dijkstra's Shortest Path implementation"},
   {vsn, "0.0.1"},
