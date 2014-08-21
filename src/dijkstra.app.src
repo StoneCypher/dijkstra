@@ -1,7 +1,7 @@
 %% -*- mode: erlang -*-
 {application, example_project,
  [
-  {description, "Example Concrete generator project"},
+  {description, "Dijkstra's Shortest Path implementation"},
   {vsn, "0.0.1"},
   {registered, []},
   {applications, [
